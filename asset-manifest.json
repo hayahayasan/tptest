@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Supabase-Uploader/static/css/main.956b3676.css",
-    "main.js": "/Supabase-Uploader/static/js/main.d0853eb9.js",
+    "main.js": "/Supabase-Uploader/static/js/main.6fe2a5a2.js",
     "static/js/952.a9dfc6c8.chunk.js": "/Supabase-Uploader/static/js/952.a9dfc6c8.chunk.js",
     "static/media/fafa.png": "/Supabase-Uploader/static/media/fafa.2c38e7b5e0fd7ad9cd37.png",
     "index.html": "/Supabase-Uploader/index.html",
     "main.956b3676.css.map": "/Supabase-Uploader/static/css/main.956b3676.css.map",
-    "main.d0853eb9.js.map": "/Supabase-Uploader/static/js/main.d0853eb9.js.map",
+    "main.6fe2a5a2.js.map": "/Supabase-Uploader/static/js/main.6fe2a5a2.js.map",
     "952.a9dfc6c8.chunk.js.map": "/Supabase-Uploader/static/js/952.a9dfc6c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.956b3676.css",
-    "static/js/main.d0853eb9.js"
+    "static/js/main.6fe2a5a2.js"
   ]
 }
